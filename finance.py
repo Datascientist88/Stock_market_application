@@ -28,8 +28,8 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 set_theme = """
             <style>
             .main {
-                background_color: #0E1117; primary_color: #FF4B4B ;
-                text_color: #FAFAFA ;
+                background_color: #0E1117; 
+                
             }
             </style>
             """

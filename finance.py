@@ -29,7 +29,7 @@ set_theme = """
             <style>
             .main {
                 background_color: #0E1117; primary_color: #FF4B4B ;
-                text_color: #FAFAFA
+                text_color: #FAFAFA ;
             }
             </style>
             """
